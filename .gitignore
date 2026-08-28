@@ -1,3 +1,17 @@
+# Firebase configuration
+GoogleService-Info.plist
+
+# Xcode user files
+xcuserdata/
+*.xcuserstate
+
+# Build files
+build/
+DerivedData/
+
+# macOS
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
